@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pham Vu Quang Minh</h1>
 <p align="center">
-  <b>🎓 AI Student at FPT University Danang | 💡 Building Smart Things with Code | 💻 Software Engineer | 🌐 Full Stack Developer | 🤖 AI & ML Enthusiast</b><br>
-  All source code about AI Student in FPT University Campus DN And Project AI.
+  <b>🎓 AI Student at FPT University Campus Danang | 💡 Building Smart Things with Code | 💻 Software Engineer | 🌐 Full Stack Developer | 🤖 AI & ML Enthusiast</b><br>
+  All source code about AI Student Subjects in FPT University Campus DN And Project AI.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangminh2510&label=Profile%20views&color=0e75b6&style=flat" alt="quangminh2510" /> </p>
 
